@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.logankulinski</groupId>
-    <artifactId>spring-ai</artifactId>
+    <artifactId>openai-experiments</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-ai</name>
     <description>spring-ai</description>
